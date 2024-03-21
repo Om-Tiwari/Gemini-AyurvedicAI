@@ -1,1 +1,1 @@
-# Homeopathy-Recommendation
+# Ayurmedic
