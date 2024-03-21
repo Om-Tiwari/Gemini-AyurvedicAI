@@ -10,4 +10,6 @@ path/Frontend/
 `npm start`
 
 create google gemini api key from https://aistudio.google.com/
-and save it to the `.env` file inside of the folder Backend.
+and save it to the `.env` file inside of the folder Backend as 
+
+`API_KEY=<yourapikey>`
